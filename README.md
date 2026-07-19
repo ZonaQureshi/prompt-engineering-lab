@@ -26,3 +26,42 @@ This project treats prompt engineering as an engineering discipline by documenti
 - Build practical AI workflows.
 - Develop a professional portfolio for AI internship opportunities.
 
+## Experiment Methodology
+
+Every experiment follows the same process:
+
+1. Define the objective.
+2. Design one or more prompts.
+3. Compare outputs.
+4. Evaluate quality.
+5. Identify improvements.
+6. Document lessons learned.
+
+## Current Roadmap
+
+- [x] Repository Setup
+- [x] Project Planning
+- [ ] Experiment 001
+- [ ] Experiment 002
+- [ ] Experiment 003
+
+## Skills Being Developed
+
+- Prompt Engineering
+- AI Evaluation
+- Experiment Design
+- Technical Documentation
+- Git & GitHub
+- Problem Solving
+- Workflow Design
+
+## Future Plans
+
+As this repository grows, it will include:
+
+- Advanced prompt engineering techniques
+- Real-world AI workflows
+- Prompt evaluation frameworks
+- AI-assisted productivity systems
+- Practical case studies
+
