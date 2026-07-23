@@ -65,3 +65,40 @@ As this repository grows, it will include:
 - AI-assisted productivity systems
 - Practical case studies
 
+---
+
+## Completed Experiments
+
+| Experiment | Technique | Status |
+|------------|-----------|--------|
+| Experiment 001 | Structured Prompting | ✅ Completed |
+| Experiment 002 | Role Prompting | ✅ Completed |
+
+---
+
+## Repository Structure
+
+```text
+Experiments/
+├── Experiment-001-Structured-Prompting.md
+└── Experiment-002-Role-Prompting.md
+```
+
+---
+
+## Purpose
+
+This repository documents my journey learning prompt engineering through hands-on experiments.
+
+Each experiment follows a structured methodology:
+
+- Research Question
+- Hypothesis
+- Experimental Setup
+- Results
+- Analysis
+- Reflection
+- Practical Applications
+- Future Work
+
+The goal is to understand how different prompting techniques influence AI responses while building a portfolio of reproducible experiments.
