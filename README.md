@@ -44,7 +44,7 @@ Every experiment follows the same process:
 - [x] Experiment 001
 - [x] Experiment 002
 - [x] Experiment 003
-
+- [x] Experiment 004
 ## Skills Being Developed
 
 - Prompt Engineering
@@ -74,13 +74,15 @@ As this repository grows, it will include:
 | Experiment 001 | Structured Prompting | ✅ Completed |
 | Experiment 002 | Role Prompting | ✅ Completed |
 | Experiment 003 | Content Constraints | ✅ Completed |
+| Experiment 004 | Output Constraints | ✅ Completed |
 
 ## Repository Structure
 
 Experiments/
 ├── Experiment-001-Structured-Prompting.md
 ├── Experiment-002-Role-Prompting.md
-└── Experiment-003-Content-Constraints.md
+├── Experiment-003-Content-Constraints.md
+└── Experiment-004-Output-Constraints.md
 
 ## Purpose
 
