@@ -1,7 +1,7 @@
 # Changelog
 
-## Version 0.3
+## Version 0.4
 
-- Added Experiment 003: Content Constraints
-- Standardized evaluation rubric
-- Added Instruction Adherence criterion
+- Added Experiment 004: Output Constraints
+- Evaluated the effect of formatting constraints on AI-generated responses
+- Expanded the evaluation rubric with instruction adherence
