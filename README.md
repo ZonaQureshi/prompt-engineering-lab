@@ -41,9 +41,9 @@ Every experiment follows the same process:
 
 - [x] Repository Setup
 - [x] Project Planning
-- [ ] Experiment 001
-- [ ] Experiment 002
-- [ ] Experiment 003
+- [x] Experiment 001
+- [x] Experiment 002
+- [x] Experiment 003
 
 ## Skills Being Developed
 
@@ -73,18 +73,14 @@ As this repository grows, it will include:
 |------------|-----------|--------|
 | Experiment 001 | Structured Prompting | ✅ Completed |
 | Experiment 002 | Role Prompting | ✅ Completed |
-
----
+| Experiment 003 | Content Constraints | ✅ Completed |
 
 ## Repository Structure
 
-```text
 Experiments/
 ├── Experiment-001-Structured-Prompting.md
-└── Experiment-002-Role-Prompting.md
-```
-
----
+├── Experiment-002-Role-Prompting.md
+└── Experiment-003-Content-Constraints.md
 
 ## Purpose
 
