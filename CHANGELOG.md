@@ -1,7 +1,7 @@
 # Changelog
 
-## Version 0.4
+## Version 0.5
 
-- Added Experiment 004: Output Constraints
-- Evaluated the effect of formatting constraints on AI-generated responses
-- Expanded the evaluation rubric with instruction adherence
+- Added Experiment 005: Budget Constraints
+- Investigated how financial limitations influence AI recommendations
+- Demonstrated optimization under real-world constraints
