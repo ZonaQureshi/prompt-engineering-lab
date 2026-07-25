@@ -18,6 +18,7 @@ However, many learning resources focus on isolated prompt examples rather than e
 
 This project treats prompt engineering as an engineering discipline by documenting experiments, evaluating outputs, and continuously improving prompt design.
 
+
 ## Objectives
 
 - Learn prompt engineering through structured experiments.
@@ -36,6 +37,20 @@ Every experiment follows the same process:
 4. Evaluate quality.
 5. Identify improvements.
 6. Document lessons learned.
+
+## Skills Demonstrated
+
+- Prompt Engineering
+- Role Prompting
+- Structured Prompting
+- Content Constraints
+- Output Constraints
+- Budget-Constrained Prompting
+- Experimental Design
+- AI Evaluation
+- Prompt Documentation
+- Technical Writing
+- Critical Analysis
 
 ## Current Roadmap
 
@@ -77,6 +92,31 @@ As this repository grows, it will include:
 | Experiment 003 | Content Constraints | ✅ Completed |
 | Experiment 004 | Output Constraints | ✅ Completed |
 | Experiment 005 | Budget Constraints | ✅ Completed |
+
+### Planned
+
+- ⏳ Experiment 006 – Few-Shot Prompting
+- ⏳ Experiment 007 – Prompt Chaining
+- ⏳ Experiment 008 – Multi-Model Comparison
+- ⏳ Experiment 009 – System Prompt Design
+- ⏳ Experiment 010 – Prompt Evaluation Framework
+
+## Learning Philosophy
+
+This repository documents my journey of learning prompt engineering through structured experimentation.
+
+Rather than collecting prompts, each experiment isolates a single prompting technique, evaluates its effectiveness, and documents the findings using a consistent evaluation rubric.
+
+The goal is to build practical prompt engineering skills through systematic testing, critical analysis, and continuous improvement.
+
+## Repository Statistics
+
+| Category | Count |
+|-----------|------:|
+| Completed Experiments | 5 |
+| AI Models Tested | 4 |
+| Prompting Techniques | 5 |
+| Evaluation Rubrics | 5 |
 
 ## Repository Structure
 
