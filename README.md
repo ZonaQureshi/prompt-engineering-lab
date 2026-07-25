@@ -23,6 +23,19 @@ However, many learning resources focus on isolated prompt examples rather than e
 
 This project treats prompt engineering as an engineering discipline by documenting experiments, evaluating outputs, and continuously improving prompt design.
 
+## Why this Repository?
+
+Prompt engineering is more than writing effective prompts.
+
+This repository focuses on understanding **why** prompts work by treating each technique as a controlled experiment.
+
+Every experiment documents:
+- Research question
+- Hypothesis
+- Prompt comparison
+- Evaluation rubric
+- Key findings
+- Practical applications
 
 ## Objectives
 
@@ -31,17 +44,6 @@ This project treats prompt engineering as an engineering discipline by documenti
 - Document successful and unsuccessful approaches.
 - Build practical AI workflows.
 - Develop a professional portfolio for AI internship opportunities.
-
-## Experiment Methodology
-
-Every experiment follows the same process:
-
-1. Define the objective.
-2. Design one or more prompts.
-3. Compare outputs.
-4. Evaluate quality.
-5. Identify improvements.
-6. Document lessons learned.
 
 ## Skills Demonstrated
 
@@ -57,36 +59,16 @@ Every experiment follows the same process:
 - Technical Writing
 - Critical Analysis
 
-## Current Roadmap
+## Experiment Methodology
 
-- [x] Repository Setup
-- [x] Project Planning
-- [x] Experiment 001
-- [x] Experiment 002
-- [x] Experiment 003
-- [x] Experiment 004
-- [x] Experiment 005
-## Skills Being Developed
+Every experiment follows the same process:
 
-- Prompt Engineering
-- AI Evaluation
-- Experiment Design
-- Technical Documentation
-- Git & GitHub
-- Problem Solving
-- Workflow Design
-
-## Future Plans
-
-As this repository grows, it will include:
-
-- Advanced prompt engineering techniques
-- Real-world AI workflows
-- Prompt evaluation frameworks
-- AI-assisted productivity systems
-- Practical case studies
-
----
+1. Define the objective.
+2. Design one or more prompts.
+3. Compare outputs.
+4. Evaluate quality.
+5. Identify improvements.
+6. Document lessons learned.
 
 ## Completed Experiments
 
@@ -106,14 +88,6 @@ As this repository grows, it will include:
 - ⏳ Experiment 009 – System Prompt Design
 - ⏳ Experiment 010 – Prompt Evaluation Framework
 
-## Learning Philosophy
-
-This repository documents my journey of learning prompt engineering through structured experimentation.
-
-Rather than collecting prompts, each experiment isolates a single prompting technique, evaluates its effectiveness, and documents the findings using a consistent evaluation rubric.
-
-The goal is to build practical prompt engineering skills through systematic testing, critical analysis, and continuous improvement.
-
 ## Repository Statistics
 
 | Category | Count |
@@ -131,6 +105,45 @@ Experiments/
 ├── Experiment-003-Content-Constraints.md
 ├── Experiment-004-Output-Constraints.md
 └── Experiment-005-Budget-Constraints.md
+
+## Current Roadmap
+
+- [x] Repository Setup
+- [x] Project Planning
+- [x] Experiment 001
+- [x] Experiment 002
+- [x] Experiment 003
+- [x] Experiment 004
+- [x] Experiment 005
+
+## Learning Philosophy
+
+This repository documents my journey of learning prompt engineering through structured experimentation.
+
+Rather than collecting prompts, each experiment isolates a single prompting technique, evaluates its effectiveness, and documents the findings using a consistent evaluation rubric.
+
+The goal is to build practical prompt engineering skills through systematic testing, critical analysis, and continuous improvement.
+
+## Future Plans
+
+As this repository grows, it will include:
+
+- Advanced prompt engineering techniques
+- Real-world AI workflows
+- Prompt evaluation frameworks
+- AI-assisted productivity systems
+- Practical case studies
+
+## Skills Being Developed
+
+- Prompt Engineering
+- AI Evaluation
+- Experiment Design
+- Technical Documentation
+- Git & GitHub
+- Problem Solving
+- Workflow Design
+
 
 ## Purpose
 
