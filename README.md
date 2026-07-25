@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+![Experiments](https://img.shields.io/badge/Experiments-5-blue)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # 🧪 Prompt Engineering Lab
 
 A research-driven collection of prompt engineering experiments, evaluations, and practical AI workflows.
