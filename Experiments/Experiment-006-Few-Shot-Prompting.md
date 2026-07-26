@@ -1,5 +1,16 @@
 # Experiment 006 – Few-Shot Prompting
 
+## Experiment Information
+
+| Field | Details |
+|--------|---------|
+| Experiment | 006 |
+| Technique | Few-Shot Prompting |
+| AI Model | Qwen |
+| Date | 2026-07-26 |
+| Task | Text Summarization |
+| Objective | Evaluate whether providing examples improves summary quality compared to zero-shot prompting. |
+
 ## Objective
 
 To evaluate whether providing examples (few-shot prompting) improves the quality, consistency, and style of AI-generated summaries compared to a zero-shot prompt.
