@@ -1,5 +1,16 @@
 # Experiment 001: Evaluating Structured Prompting
 
+## Experiment Information
+
+| Field | Details |
+|--------|---------|
+| Experiment | 001 |
+| Technique | Structured Prompting |
+| AI Model | Gemini |
+| Date | 2026-07-23 |
+| Task | Information Explanation |
+| Objective | Evaluate whether structured prompts produce clearer and more complete responses than unstructured prompts. |
+
 ## Overview
 
 This experiment investigates whether a structured prompt produces a higher-quality educational response than a simple prompt when explaining Autism.
