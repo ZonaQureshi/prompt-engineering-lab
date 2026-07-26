@@ -1,5 +1,16 @@
 # Experiment 004: Evaluating Output Constraints
 
+## Experiment Information
+
+| Field | Details |
+|--------|---------|
+| Experiment | 004 |
+| Technique | Output Constraints |
+| AI Model | Claude |
+| Date | 2026-07-26 |
+| Task | Budget Planning |
+| Objective | Evaluate how output constraints affect formatting, organization, and readability. |
+
 ## Overview
 
 This experiment investigates whether output constraints improve the readability, organization, and usability of AI-generated responses while maintaining factual accuracy.
