@@ -1,5 +1,16 @@
 # Experiment 005: Evaluating Budget Constraints
 
+## Experiment Information
+
+| Field | Details |
+|--------|---------|
+| Experiment | 005 |
+| Technique | Budget Constraints |
+| AI Model | Gemini |
+| Date | 2026-07-26 |
+| Task | AI Tool Recommendations |
+| Objective | Evaluate how budget constraints influence the practicality and relevance of AI recommendations. |
+
 ## Overview
 
 This experiment investigates how adding a budget constraint influences AI-generated recommendations. The goal was to determine whether limiting financial resources leads to more practical, realistic, and actionable responses.
