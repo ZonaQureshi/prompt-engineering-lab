@@ -1,5 +1,16 @@
 # Experiment 002: Evaluating Role Prompting
 
+## Experiment Information
+
+| Field | Details |
+|--------|---------|
+| Experiment | 002 |
+| Technique | Role Prompting |
+| AI Model | Claude |
+| Date | 2026-07-24 |
+| Task | Information Explanation |
+| Objective | Evaluate how assigning an expert role influences AI response quality. |
+
 ## Overview
 
 This experiment investigates whether assigning a professional role to an AI model changes the quality, depth, and style of its response.
