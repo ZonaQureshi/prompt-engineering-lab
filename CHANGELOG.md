@@ -6,6 +6,27 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog.
 
 ---
+## [v0.8.0] - 2026-07-26
+
+### Added
+- Experiment 007: Prompt Chaining
+- Compared a single comprehensive prompt with a multi-step prompt chain.
+- Evaluated outputs using:
+  - Accuracy
+  - Organization
+  - Depth
+  - Logical Flow
+  - Overall Quality
+- Added Experiment Information section documenting experiment metadata.
+- Added Model Configuration section for reproducibility.
+- Documented research question, hypothesis, variables, evaluation rubric, findings, practical applications, limitations, and conclusion.
+- AI model used: ChatGPT (GPT-5.5).
+
+### Findings
+- Prompt Chaining produced more organized, detailed, and coherent responses than a single comprehensive prompt.
+- Dividing a complex task into sequential prompts improved logical flow and response depth.
+- Providing context from previous prompts enabled the model to generate more comprehensive and educational outputs.
+
 
 ## [v0.7.0] - 2026-07-26
 
