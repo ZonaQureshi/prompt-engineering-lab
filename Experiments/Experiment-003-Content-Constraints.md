@@ -1,5 +1,16 @@
 # Experiment 003: Evaluating Content Constraints
 
+## Experiment Information
+
+| Field | Details |
+|--------|---------|
+| Experiment | 003 |
+| Technique | Content Constraints |
+| AI Model | Perplexity |
+| Date | 2026-07-25 |
+| Task | Information Explanation |
+| Objective | Evaluate whether specifying required content improves completeness and relevance. |
+
 ## Overview
 
 This experiment investigates whether explicitly specifying the content that an AI must include improves the completeness and educational value of its response.
