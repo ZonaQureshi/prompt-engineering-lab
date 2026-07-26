@@ -84,9 +84,14 @@ Every experiment follows the same process:
 
 ### Planned
 
-- ⏳ Experiment 008 – Multi-Model Comparison
-- ⏳ Experiment 009 – System Prompt Design
-- ⏳ Experiment 010 – Prompt Evaluation Framework
+008 Marketing Prompting
+009 Prompt Workflows
+010 Prompt QA
+011 Prompt Iteration
+012 AI Marketing Automation
+013 Multi-model Evaluation
+014 System Prompt Design
+015 Prompt Evaluation Framework
 
 ## Repository Statistics
 
