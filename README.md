@@ -79,10 +79,10 @@ Every experiment follows the same process:
 | Experiment 003 | Content Constraints | ✅ Completed |
 | Experiment 004 | Output Constraints | ✅ Completed |
 | Experiment 005 | Budget Constraints | ✅ Completed |
+| Experiment 006 | Few-Shot Prompting | ✅ Completed |
 
 ### Planned
 
-- ⏳ Experiment 006 – Few-Shot Prompting
 - ⏳ Experiment 007 – Prompt Chaining
 - ⏳ Experiment 008 – Multi-Model Comparison
 - ⏳ Experiment 009 – System Prompt Design
@@ -92,9 +92,9 @@ Every experiment follows the same process:
 
 | Category | Count |
 |-----------|------:|
-| Completed Experiments | 5 |
-| AI Models Tested | 4 |
-| Prompting Techniques | 5 |
+| Completed Experiments | 6 |
+| AI Models Tested | 5 |
+| Prompting Techniques | 6 |
 | Evaluation Rubrics | 5 |
 
 ## Repository Structure
@@ -104,7 +104,8 @@ Experiments/
 ├── Experiment-002-Role-Prompting.md
 ├── Experiment-003-Content-Constraints.md
 ├── Experiment-004-Output-Constraints.md
-└── Experiment-005-Budget-Constraints.md
+├── Experiment-005-Budget-Constraints.md
+└── Experiment-006-Few-Shot-Prompting.md
 
 ## Current Roadmap
 
@@ -115,6 +116,7 @@ Experiments/
 - [x] Experiment 003
 - [x] Experiment 004
 - [x] Experiment 005
+- [x] Experiment 006
 
 ## Learning Philosophy
 
