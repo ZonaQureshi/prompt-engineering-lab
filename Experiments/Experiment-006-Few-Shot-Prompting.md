@@ -68,22 +68,38 @@ Rainforests are dense, highly diverse ecosystems located near the equator that r
 **Prompt**
 
 Summarize the paragraph into three concise bullet points, following the style shown in the examples.
+
 Example 1:
+
 Paragraph:
 Honeybees are busy insects that live in large groups. They fly from flower to flower to collect sweet nectar and yellow dust called pollen. When they bring these things back to their home, they make sweet honey to eat during the cold winter months. Bees also help plants grow by moving pollen from one flower to another flower. Without bees, many plants would not make food or seeds.
+
 Summary:
+
 Honeybees collect nectar and pollen from flowers to make food.
+
 They help plants grow by moving pollen between flowers.
+
 Bees are very important for nature and food.
+
 Example 2:
+
 Paragraph:
+
 The solar system is a vast and fascinating place in space. At its very center is the sun, which is a giant star that gives heat and light to everything around it. Eight large planets travel around the sun in paths called orbits. Earth is the third planet from the sun and is the only one known to have liquid water and living things. Other planets are different, like Mars, which is red and dusty, or Jupiter, which is a giant ball of gas.
+
 Summary:
+
 The sun is at the center of the solar system and provides light and heat.
+
 Eight planets travel around the sun.
+
 Earth is unique because it supports life, while other planets have different features.
+
 Now summarize this paragraph
+
 Paragraph:
+
 Rainforests are incredibly dense forests found near the equator that receive high amounts of rainfall each year. They are home to more than half of the world's plant and animal species, making them the most diverse ecosystems on Earth. Huge trees form a high ceiling called a canopy, which blocks most sunlight from reaching the forest floor. These forests act as the planet's lungs by absorbing carbon dioxide and releasing clean oxygen into the air. Despite their immense value, millions of acres are cut down every year for farming and logging.
 
 ### Output
