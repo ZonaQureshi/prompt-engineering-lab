@@ -81,32 +81,22 @@ Every experiment follows the same process:
 | Experiment 005 | Budget Constraints | ✅ Completed |
 | Experiment 006 | Few-Shot Prompting | ✅ Completed |
 | Experiment 007 | Prompt Chaining | ✅ Completed |
+✅ Experiment 008 – Marketing Prompt Engineering |
 
 ### Planned
 
-008 Marketing Prompting
-
-009 Prompt Workflows
-
-010 Prompt QA
-
-011 Prompt Iteration
-
-012 AI Marketing Automation
-
-013 Multi-model Evaluation
-
-014 System Prompt Design
-
-015 Prompt Evaluation Framework
+⏳ Experiment 009 – Prompt Workflow Design
+⏳ Experiment 010 – Prompt Quality Assurance
+⏳ Experiment 011 – Prompt Optimization
+⏳ Experiment 012 – Multi-Model Marketing Evaluation
 
 ## Repository Statistics
 
 | Category | Count |
 |-----------|------:|
-| Completed Experiments | 7 |
+| Completed Experiments | 8 |
 | AI Models Tested | 6 |
-| Prompting Techniques | 7 |
+| Prompting Techniques | 8 |
 | Evaluation Rubrics | 5 |
 
 ## Repository Structure
@@ -119,6 +109,7 @@ Experiments/
 ├── Experiment-005-Budget-Constraints.md
 └── Experiment-006-Few-Shot-Prompting.md
 └── Experiment-007-Prompt-Chaining.md
+└── Experiment-008-Marketing-Prompt-Engineering.md
 
 ## Current Roadmap
 
@@ -131,6 +122,7 @@ Experiments/
 - [x] Experiment 005
 - [x] Experiment 006
 - [x] Experiment 007
+- [x] Experiment 008
 
 ## Learning Philosophy
 
