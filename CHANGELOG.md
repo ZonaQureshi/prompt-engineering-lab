@@ -184,7 +184,32 @@ The format is based on Keep a Changelog.
 - Defining the target audience and business objective significantly improved output quality.
 - Both ChatGPT and Gemini demonstrated consistent improvements when provided with detailed marketing context.
 
+## [v0.9.0] - 2026-07-27
 
+### Added
+
+- Experiment 009: Persona Prompting
+- Compared Role Prompting with Persona Prompting for B2B LinkedIn marketing content.
+- Used a fictional technology company (NovaSpark AI) to simulate a real-world marketing scenario.
+- Evaluated outputs across three AI models:
+  - ChatGPT (GPT-5.5)
+  - Gemini
+  - Claude
+- Evaluated responses using:
+  - Audience Targeting
+  - Professional Tone
+  - Persuasiveness
+  - Brand Voice Consistency
+  - Human-like Writing
+  - Overall Quality
+- Added cross-model comparison documenting differences in persona adoption and marketing strategy.
+- Included detailed model configuration and experimental methodology.
+
+### Findings
+
+- Persona Prompting consistently produced more persuasive and audience-focused marketing content than Role Prompting.
+- The assigned persona influenced both writing style and communication strategy across all tested AI models.
+- Claude demonstrated the strongest persona adoption, Gemini produced the most strategic business messaging, and ChatGPT generated the most approachable customer-focused content.
 
 
 
